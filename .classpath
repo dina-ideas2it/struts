@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.jasper|**/*.jpg|**/*.png|**/*.gif|**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/transaction/jta/1.1/jta-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/br/gov/frameworkdemoiselle/demoiselle-jpa/2.3.0/demoiselle-jpa-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/br/gov/frameworkdemoiselle/demoiselle-core/2.3.0/demoiselle-core-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-configuration/commons-configuration/1.5/commons-configuration-1.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2/commons-collections-3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.3/commons-lang-2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils-core/1.7.0/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/br/gov/frameworkdemoiselle/component/demoiselle-vaadin/2.3.0/demoiselle-vaadin-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/vaadin/addons/lazyquerycontainer/vaadin-lazyquerycontainer/1.2.9/vaadin-lazyquerycontainer-1.2.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/vaadin/addons/refresher/1.1.1/refresher-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin/6.7.1/vaadin-6.7.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/vaadin/addons/confirmdialog/1.1.1/confirmdialog-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/vaadin/addons/collectioncontainer/0.9.3/collectioncontainer-0.9.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/vaadin/addon/beanvalidation-addon/0.6.2/beanvalidation-addon-0.6.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/vaadin/addons/easyuploads/0.4.9/easyuploads-0.4.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/br/gov/frameworkdemoiselle/demoiselle-servlet/2.3.0/demoiselle-servlet-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-servlet/2.5.0/gwt-servlet-2.5.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-entitymanager/4.1.7.Final/hibernate-entitymanager-4.1.7.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-core/4.1.7.Final/hibernate-core-4.1.7.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8.1/junit-4.8.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/easymock/easymock/3.0/easymock-3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/objenesis/objenesis/1.2/objenesis-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-module-junit4/1.4.6/powermock-module-junit4-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-module-junit4-common/1.4.6/powermock-module-junit4-common-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-core/1.4.6/powermock-core-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-reflect/1.4.6/powermock-reflect-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-api-easymock/1.4.6/powermock-api-easymock-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/powermock/powermock-api-support/1.4.6/powermock-api-support-1.4.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/dinakaran/Downloads/ownstrut/WEB-INF/lib/struts2-core-2.1.6.jar"/>
+	<classpathentry kind="lib" path="/home/dinakaran/Downloads/ownstrut/WEB-INF/lib/xwork-2.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/dinakaran/Downloads/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
